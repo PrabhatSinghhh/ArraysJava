@@ -1,6 +1,6 @@
 package BasicArray;
 
-public class Sum {
+public class SecondMaximum {
     public static void main(String[] args) {
         int[] arr = {1, 99, 50, 4, 8, 33};
         int firstMax = Integer.MIN_VALUE;
